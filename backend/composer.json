@@ -1,0 +1,17 @@
+{
+    "name": "amocrm/backend",
+    "description": "test task",
+    "authors": [
+        {
+            "name": "Akmal Giesov",
+            "email": "akmalgiesov1993@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+      "psr-4":{
+      "App\\" : "App"
+    }
+  }
+}
